@@ -1,7 +1,8 @@
 # Bayes_Classifier
-  apply bayes classifier to classify the given dataset
+
+    apply bayes classifier to classify the given dataset
 
 ## Requirements
-  python3
-  numpy
-  
+
+    python3
+    numpy
